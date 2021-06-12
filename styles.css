@@ -11,7 +11,7 @@ html {
     color: #fff;
 }
 ::selection {
-    background-color: hsl(0, 60%, 30%);
+    background-color: hsl(0, 50%, 50%);
 }
 .container {
     height: 100%;
